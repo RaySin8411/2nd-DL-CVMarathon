@@ -1,4 +1,5 @@
 # 第二屆深度學習與電腦視覺馬拉松
+
 ## 1.基礎影像處理
 
 ### D1 OpenCV簡介+顯示圖片
@@ -26,6 +27,7 @@
 ## 2.電腦視覺深度學習基礎
 
 ### CNN分類器架構
+
 #### D11 卷積層
 
 #### D12 步長、填充
@@ -39,6 +41,7 @@
 ### D16 如何使用Data Augmentation
 
 ### Evolution of CNN Architecture 
+
 #### D17 AlexNet
 
 #### D18 VGG16 and 19
@@ -47,9 +50,9 @@
 
 #### D20 ResNetV1-V2、InceptionV4、Inception-ResNet
 
-#### D21 Transfer learning
+### D21 Transfer learning
 
-#### D22 Breaking Captchas with a CNN
+### D22 Breaking Captchas with a CNN
 
 ## 3.CNN應用案例學習
 
