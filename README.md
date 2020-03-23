@@ -55,7 +55,47 @@
 		Breaking Captchas with a CNN
 
 	3.CNN應用案例學習
+		
+		Object detection
+			
+			原理
+			
+			基本介紹、演進
+			
+		Region Proposal、IOU概念
+		
+		RPN架構介紹
+		
+		Bounding Box Regression原理
+		
+		Non-Maximum Suppression (NMS)原理
+		
+		程式導讀、實作
 
+		YOLO 
+			
+			簡介及算法理解
+			
+			細節理解 
+				
+				網路輸出的後處理
+			
+				損失函數
+			
+				損失函數程式碼解讀
+				
+				網路架構
+				
+				網路架構程式碼解讀
+				
+			演進
+		
+		使用 YOLOv3 偵測圖片及影片中的物件
+
+		更快的檢測模型 - tiny YOLOv3
+
+		訓練 YOLOv3
+		
 	4.電腦視覺深度學習實戰
 	
 		人臉關鍵點
